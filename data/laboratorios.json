@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "nome": "Lab Prog",
+        "numero": "1",
+        "capacidade": 35,
+        "projetor": true
+    }
+]
