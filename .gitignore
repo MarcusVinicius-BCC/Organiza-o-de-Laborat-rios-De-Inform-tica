@@ -1,0 +1,11 @@
+# Arquivos e pastas comuns para ignorar em projetos PHP
+/vendor/
+/node_modules/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+.env
+.idea/
+.vscode/
